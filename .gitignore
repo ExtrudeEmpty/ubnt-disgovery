@@ -1,0 +1,10 @@
+# Compiled binaries
+ubnt-disgovery
+ubnt-disgovery.exe
+
+# User configuration (contains personal settings)
+*.cfg
+
+# Build artifacts
+*.syso.bak
+release_builds/
